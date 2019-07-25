@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "497005143800",
+    "firebase_url": "https://pickbot-1539999449598.firebaseio.com",
+    "project_id": "pickbot-1539999449598",
+    "storage_bucket": "pickbot-1539999449598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497005143800:android:d2dd5aafda54afdd",
+        "android_client_info": {
+          "package_name": "com.pickbot.pickbotdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497005143800-su4aclqkg9i4tlt5opcj0p3ejkse9c5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pickbot.pickbotdriver",
+            "certificate_hash": "93157445d7eff13cb4ee044eb620b27190ad0af5"
+          }
+        },
+        {
+          "client_id": "497005143800-1ek4aep1gmgo7olshqjvd1lderv6ha7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4dCwRe9a13gr-VDFs_tEt2zJ5NCOtToc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497005143800-1ek4aep1gmgo7olshqjvd1lderv6ha7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497005143800:android:3c02798c93b7bdef",
+        "android_client_info": {
+          "package_name": "com.uber.pickbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497005143800-tvegj1cta1av02hqvs7ihuquiogfrnsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uber.pickbot",
+            "certificate_hash": "93157445d7eff13cb4ee044eb620b27190ad0af5"
+          }
+        },
+        {
+          "client_id": "497005143800-1ek4aep1gmgo7olshqjvd1lderv6ha7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4dCwRe9a13gr-VDFs_tEt2zJ5NCOtToc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497005143800-1ek4aep1gmgo7olshqjvd1lderv6ha7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
